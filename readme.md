@@ -1,8 +1,8 @@
 ## Electron and React
 
-Clone this repo to get started with Electron and React. You will find 2 folders inside one will contain the most basic set up for Electron / Webpack / React and Babel for transpiling.
+Clone this repo to get started with Electron and React. You will find 2 folders inside, 'electron-react-start' will contain the most basic set up for Electron / Webpack / React and Babel for transpiling.
 
-The other folder will contain the Material Design of Google. It is optimized for React inside a new library and can be found [here](https://github.com/tleunen/react-mdl)
+The other folder will contain the same but with the Material Design of Google. It is optimized for React inside a new library and can be found at [here](https://github.com/tleunen/react-mdl)
 
 ### Getting started
 
